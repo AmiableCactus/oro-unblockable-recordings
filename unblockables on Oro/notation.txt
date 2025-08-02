@@ -1,0 +1,6 @@
+A	lp ball, dash x2, nj, fj j.mk
+B	lp ball, dash x2, fj, fj j.hk
+C	mp ball, dash x2, nj, fj j.mk	(annoying, ball has a tendency to hit twice)
+D	mp ball, dash x2, fj, fj j.hk	(annoying, ball has a tendency to hit twice)
+E	hp ball, ex disc, sjf j.mk	(actually no idea how to parry this)
+F	hp ball, whiff st.hp x2, sjf j.mk

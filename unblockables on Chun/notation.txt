@@ -1,0 +1,11 @@
+A	lp ball, dash x3, nj, fj, j.MK
+B	lp ball, dash x3, fj, nj, j.HK
+C	lp ball, dash x3, back-dash, fj	
+		(sometimes Oro dashes to fast, inconsistency with either the game or playback, just reload state and try again lol)
+D	cs.mp(1), mk chicken, cs.mp(1), lk chicken, cs.mp(1) xx light ball, dash x2, whiff 5HK, fj, fj.MK
+E	cs.mp(1), mk chicken, cs.mp(1), lk chicken, cs.mp(1) xx light ball, dash, slight walk, dash, whiff 5MK, walk back, fj.MK
+F	After a neutral grab, throw LP ball and jump over.
+G	cs.mp(1), mk chicken, cs.mp(1), hk chicken, cs.mp(1), LP ball, dash x3, nj, fj, j.MK
+		(kinda near corner, use the included save state, this is probably too precise to be realistic?)
+		sfiii3nr1 slot 01.fs
+	

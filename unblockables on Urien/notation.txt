@@ -1,0 +1,14 @@
+A	lp ball, dash x2, slight walk forward, nj, fj j.mk
+		(jump fast)
+B	lp ball, dash x2, slight walk forward, fj, fj j.hk
+		(jump fast)
+C	lp ball, dash x3, nj, fj j.mk
+		(jump fast)
+D	lp ball, dash x3, fj, nj j.hk
+		(jump fast)
+E	hp ball, dash x2, nj, fj
+		(this sucks)
+F	cs.mp(2), cs.mp(1), hp ball, mk chicken, nj, fj, j.mk
+G	cs.mp(1), mk chicken, cs.mp(1), hk chicken, cs.mp(1), LP ball, dash, dash, walk nj, fj, j.MK, cs.MP(1), HP disc, dash, cs.MP(1), hk chicken, etc.
+		(I couldn't get the partition to fully loop this, but you can still practice parrying out of the first rep with this recording)
+		(use the included save state for positioning)

@@ -1,0 +1,7 @@
+A	lp ball, dash x2, nj, fj j.mk
+B	lp ball, dash x2, fj, nj j.hk
+C	mp ball, dash x2, nj, fj j.mk
+D	mp ball, dash x2, fj, nj j.hk
+E	hp ball, jump forward, nj, fj, j.mk
+F	hp ball, jump forward, fj, fj, j.hk
+G	hp ball, walk back, 5HK, sj j.mk

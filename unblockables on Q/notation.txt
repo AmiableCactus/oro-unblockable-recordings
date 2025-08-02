@@ -1,0 +1,5 @@
+A	lp ball, dash x2, nj, fj (hard)
+B	mp ball, dash x2, nj, fj (hard)
+C	hp ball, whiff c.HP x2, sjf
+D	hp ball, hk chicken, nj, fj (double jump before the peak of your jump)
+E	hp ball, whiff 5HP, sjf, fj, j.hk

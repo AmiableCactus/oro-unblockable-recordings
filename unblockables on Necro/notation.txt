@@ -1,0 +1,6 @@
+A	lp ball, dash x2, nj, fj j.mk (jump has to be fast)
+B	mp ball, back dash, walk forward, sjf j.mk (this is probably dumb)
+C	mp ball, whiff 2HP twice, sjf j.MK
+D	hp ball, delay jf j.HP, slight walk, nj, fj, j.MK
+E	hp ball, ex disc, sjf
+F	hp ball, whiff 2HP twice, sjf j.MK

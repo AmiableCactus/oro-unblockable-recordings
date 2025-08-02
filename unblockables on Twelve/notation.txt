@@ -1,0 +1,6 @@
+A	lp ball, dash x2, nj, fj j.mk
+B	lp ball, dash x2, fj, fj j.hk
+C	mp ball, dash, whiff 2hp x2, fj j.mk
+D	hp ball, whiff 2hp x2, sjf j.mk
+E	hp ball, whiff 2HP, sjf, nj j.hk
+F	hp ball, EX disc, sjf j.mk

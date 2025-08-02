@@ -1,0 +1,14 @@
+The Gouki and Sean recordings are exactly the same.
+A is the same recording as Ryu
+B, D, E, F are the same recordings on Ryu and Ken
+C had to be re-recorded for Sean
+These could possibly be slightly timing-optimized for Gouki, but these are like kinda bad on him anyway, this collection is only for completeness.
+
+A	lp ball, dash x3, nj, fj j.mk
+		(this recording inconsistently experiences an issue where Oro dashes through Ryu just reload and try again :))
+B	mp ball, dash x2, nj, fj j.mk
+C	mp ball, dash x2, fj, nj, j.hk
+D	hp ball, step back, whiff s.HP, sjf j.mk	
+E	hp ball, whiff 2HP, sjf, djf, j.mk
+F	hp ball, whiff 2HP, sjf, delay djf, j.hk
+		(hard to get the ball to hit once with HP, maybe 1f?)

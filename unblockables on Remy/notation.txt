@@ -1,0 +1,9 @@
+A	mp ball, dash x2, nj, fj j.mk
+B	mp ball, dash x2, fj, fj j.hk
+C	hp ball, forward dash, back dash, walk forward, forward jump
+		(I think this is bad but the down parry feels impossible)
+D	hp ball, dash, walk, nj, fj j.mk
+E	hp ball, dash, walk, fj, nj, j.hk
+F	lp ball, dash x3, pause, forward jump 
+		(This is silly, I just included because I think it's neat. Use the included save state for positioning.)
+		(Another one where idk if this is a replay bug or just a 3S subpixel thing, but sometimes Oro dashes too fast in this recording. Just reload the state and try again if it happens.)

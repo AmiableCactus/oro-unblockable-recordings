@@ -1,0 +1,11 @@
+B, C, D, E, F are all the exact same recordings as Ken, this could possibly be optimized a touch for Ryu specifically
+
+A	lp ball, dash x3, nj, fj j.mk
+		(requires slightly different timing than on Ken)
+		(this recording inconsistently experiences an issue where Oro dashes through Ryu, just reload and try again :))
+B	mp ball, dash x2, nj, fj j.mk
+C	mp ball, dash x2, fj, nj, j.hk
+D	hp ball, step back, whiff s.HP, sjf j.mk	
+E	hp ball, whiff 2HP, sjf, djf, j.mk
+F	hp ball, whiff 2HP, sjf, delay djf, j.hk
+		(hard to get the ball to hit once with HP, maybe 1f?)

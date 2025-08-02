@@ -1,0 +1,5 @@
+A	cl.MP(2), walk, cl.MP(1), lp ball, dash x2, nj, fj j.mk
+B	cl.MP(1) xx HP disc, HK chicken(1), cl.MP(1) xx HP disc xx LP ball, dash x2 nj, fj j.mk
+C	cl.MP(1) xx HP disc, HK chicken(1), cl.MP(1) xx HP disc xx LP ball, dash, walk, fj, nj j.hk
+D	back throw into the corner, LP ball, super jump j.mk, cl.mp(1) xx hk chicken, MP uppercut
+		(starts with Oro's back against the wall, might work from slightly further out too, idk)

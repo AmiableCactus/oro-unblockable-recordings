@@ -1,0 +1,7 @@
+A	lp ball, dash x3, nj, fj j.mk
+B	mp ball, dash x2, nj, fj j.mk
+C	mp ball, dash x2, fj, nj, j.hk
+D	hp ball, step back, whiff s.HP, sjf j.mk	
+E	hp ball, slight walk back, whiff 2HP, sjf, djf, j.mk
+F	hp ball, slight walk back, whiff 2HP, sjf, delay djf, j.hk
+		(hard to get the ball to hit once with HP, maybe 1f?)

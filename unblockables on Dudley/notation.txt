@@ -1,0 +1,13 @@
+A	lp ball, dash, dash, instant nj, fj, j.mk
+B	mp ball, dash, slight walk, nj, fj, j.mk
+		(second jump is fast)
+C	mp ball, dash, fj, delay fj, j.HK
+D	mp ball, forward jump, fj, delay fj, j.HK
+E	hp ball, forward dash, back dash, walk forward, forward jump j.mk
+F	hp ball, f+mp, slight delay, fj j.mk
+G	hp ball, f+mp, fj, fj j.mk
+		(fast)
+H	hp ball, f+mp, sjf, jf, j.hk
+I	hp ball, dash, nj, fj, j.mk
+J	hp ball, dash, fj, nj, j.hk
+K	hp ball, sjf, nj, j.hk

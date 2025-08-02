@@ -1,0 +1,11 @@
+A	lp ball, dash x3, nj, fj
+B	lp ball, dash x2, nj, fj
+C	mp ball, dash x2, nj, fj (let the ball hit twice)
+D	mp ball, hk chicken, nj, fj
+E	mp ball, fj, land, dash, nj, fj, j.mk
+F	mp ball, fj, land, dash, fj, fj, j.hk
+G	hp ball, f+mp, f+mp, step back, fj, j.mk
+H	hp ball, f+mp, f+mp, fj, delay fj, j.hk
+I	hp ball, whiff d+fp, f+mp, lp, j.mk (this works but it's inconsistent)
+J	hp ball, whiff 5HK, sjf, fj, fj.mk (these just depend on the timing of the double jump forward)
+K	hp ball, whiff 5HK, sjf, fj, fj.hk
