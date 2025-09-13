@@ -1,6 +1,9 @@
 A	lp ball, dash x2, nj, fj j.mk
 B	lp ball, dash x2, fj, fj j.hk
+        try to parry with 446
 C	mp ball, dash, whiff 2hp x2, fj j.mk
+        try to parry with 44
 D	hp ball, whiff 2hp x2, sjf j.mk
+        try to parry with 44
 E	hp ball, whiff 2HP, sjf, nj j.hk
 F	hp ball, EX disc, sjf j.mk
