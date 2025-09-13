@@ -1,7 +1,7 @@
 A	cl.mp(2), walk, cl.mp(1) xx lp ball, dash x2, nj, fj
 B	cl.mp(2), walk, cl.mp(1) xx lp ball, dash x2, back dash, fj j.mk
 
-	Normal chicken loop works only from parried dive kick or jump-in.
+	Normal chicken loop works only from parried dive kick, jump-in, or Yun's dash punch.
 	From the ground, use the alternate chicken loop:
 		cs.mp xx ex chicken, cs.mp mk chicken, ender
 	If you parry a jump-in, you can do one rep of the regular loop,
